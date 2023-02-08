@@ -3,8 +3,8 @@ const request = require('request')
 const fs = require('fs')
 
 module.exports = {
-    name: "blur",
-    alias: ["blur"],
+    name: "scale",
+    alias: ["2x"],
     use: "<reply>",
     desc: "Photo Image Editor",
     type: "photoeditor",
@@ -15,7 +15,7 @@ module.exports = {
             let download = await killua.downloadAndSaveMediaMessage(quoted)
             file_name = getRandom('jpg')
             request({
-                url: global.api("zenz", "/photoeditor/blur", {}, "apikey"),
+                url: global.api("zenz", "/photoeditor/2x", {}, "apikey"),
                 method: 'POST',
                 formData: {
                     "sampleFile": fs.createReadStream(download)
