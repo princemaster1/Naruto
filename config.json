@@ -1,0 +1,21 @@
+{
+  "APIs": {
+    "zenz": "https://api.zahwazein.xyz",
+    "apikey": "3ce5ad372f37"
+  },
+  "options": {
+    "autoRead": true,
+    "self": true,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "𓂀 N̶a̶r̶u̶t̶o̶ 𓂀",
+    "author": "Mohamed"
+  },
+  "owner": [
+    "254711107992"
+  ],
+  "timezone": "Africa/Nairobi",
+  "footer": "𓂀 N̶a̶r̶u̶t̶o̶ 𓂀"
+}
