@@ -1,13 +1,13 @@
 let { fetchUrl } = require("../../lib/Function")
 
 module.exports = {
-    name: "ankara",
-    alias: ["tgankara"],
+    name: "hongkong",
+    alias: ["tghongkong"],
     desc: "Togel Result Information",
     type: "togel",
     example: `%prefix%command`,
     start: async(killua, m, {}) => {
-        let fetch = await fetchUrl(global.api("zenz", "/togel/ankara", {}, "apikey"))
+        let fetch = await fetchUrl(global.api("zenz", "/togel/hongkong", {}, "apikey"))
         let caption = `Togel Result Information :\n\n`
         let i = fetch.result
         caption += `⭔ Current Draw : ${i.currentDraw}\n`
