@@ -1,12 +1,12 @@
 module.exports = {
-    name: "attp",
+    name: "ttp",
     alias: ["texttopicture"],
     use: "<query>",
-    desc: "ATTP Maker",
+    desc: "TTP Maker",
     type: "creator",
     example: "%prefix%command <query>",
     start: async(killua, m, { text }) => {
-        killua.sendFile(m.from, global.api("zenz", "/creator/attp", { text: text }, "apikey"), "", m)
+        killua.sendFile(m.from, global.api("zenz", "/creator/ttp", { text: text }, "apikey"), "", m)
     },
     isQuery: true
 }
