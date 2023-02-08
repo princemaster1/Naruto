@@ -2,20 +2,18 @@
 <img src="https://api.zahwazein.xyz/upload/icon.png" alt="nz" width="350"/>
 </p>
 
-## Killua-Zoldyck
+## *NARUTO*
 
 > Example case from Zenz Rest APIs for WhatsApp Bot
 
 > User must have zenz apikey to use this repo, register [here](https://api.zahwazein.xyz) to get apikey
 
-> This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
-
 </br>
 
-<a href="https://github.com/zhwzein"><img title="Author" src="https://img.shields.io/badge/Author-Zhwzein-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/zhwzein/Killua-Zoldyck"><img title="Stars" src="https://img.shields.io/github/stars/zhwzein/Killua-Zoldyck?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zhwzein/Killua-Zoldyck?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zhwzein/Killua-Zoldyck?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/spiderx11"><img title="Author" src="https://img.shields.io/badge/Author-Mohamed-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/spiderx11/Naruto"><img title="Stars" src="https://img.shields.io/github/stars/spiderx11/Naruto?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/spiderx11/Naruto/network/members"><img title="Forks" src="https://img.shields.io/github/forks/spiderx11/Naruto-Zoldyck?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/spiderx11/Naruto/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/spiderx11/Naruto?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
@@ -31,8 +29,8 @@ Add FFmpeg to PATH environment variable
 ```
 	
 ```bash
-> git clone https://github.com/zhwzein/Killua-Zoldyck
-> cd Killua-Zoldyck
+> git clone https://github.com/spiderx11/Naruto
+> cd Naruto
 > npm install
 ```
 </details>
@@ -44,15 +42,15 @@ Add FFmpeg to PATH environment variable
 * Download & Install Termux [`Click here`](https://f-droid.org/repo/com.termux_118.apk)
 	
 ```bash
-> apt update && apt upgrade
-> apt install git -y
-> apt install nodejs -y
-> apt install ffmpeg -y
-> git clone https://github.com/zhwzein/Killua-Zoldyck
-> cd Killua-Zoldyck
-> pkg install yarn
-> yarn add @adiwajshing/baileys
-> yarn
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+git clone https://github.com/spiderx11/Naruto
+cd Naruto
+pkg install yarn
+yarn add @adiwajshing/baileys
+yarn
 ```
 </details>
 
@@ -64,7 +62,7 @@ Add FFmpeg to PATH environment variable
     "apikey": "YOURAPIKEY"
  },
 "owner": [
-    "62812xxx"
+    "254xxx"
  ],
 ```
 </details>
@@ -100,43 +98,33 @@ SCAN THE QR USING YOUR WHATSAPP!
 	
 | Features |  Availability |
 | :------: |  :----------: |
-|   Anime Web     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/animeweb)      |
-|   Convert     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/convert)      |
-|   Creator     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/creator)      |
-|   Database     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/database)      |
-|   Downloader     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/downloader)      |
-|   Entertainment  |     ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/entertainment)      |
-|   Group     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/group)      |
-|   Information   |  ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/information)      |
-|   Islami     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/islami)      |
-|   Main     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/main)      |
-|   More Nsfw     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/morensfw)      |
-|   Nekos Life     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/nekoslife)      |
-|   News   |  ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/news)      |
-|   Owner     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/owner)      |
-|   Photo Editor  |   ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/photoeditor)      |
-|   Primbon   |  ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/primbon)      |
-|   Random Image     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/randomimage)      |
-|   Random Text     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/randomtext)      |
-|   Search     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/search)      |
-|   Stalker     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/stalker)      |
-|   Textmaker     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/textmaker)      |
-|   Togel     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/togel)      |
-|   Users     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/users)      |
-|   Webzone     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/webzone)      |
+|   Anime Web     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/animeweb)      |
+|   Convert     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/convert)      |
+|   Creator     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/creator)      |
+|   Database     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/database)      |
+|   Downloader     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/downloader)      |
+|   Entertainment  |     ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/entertainment)      |
+|   Group     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/group)      |
+|   Information   |  ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/information)      |
+|   Islami     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/islami)      |
+|   Main     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/main)      |
+|   More Nsfw     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/morensfw)      |
+|   Nekos Life     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/nekoslife)      |
+|   News   |  ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/news)      |
+|   Owner     |       ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/owner)      |
+|   Photo Editor  |   ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/photoeditor)      |
+|   Primbon   |  ✅[here](https://github.com/zhwzein/spiderx11/Naruto/tree/main/commands/primbon)      |
+|   Random Image     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/randomimage)      |
+|   Random Text     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/randomtext)      |
+|   Search     |       ✅[here](https://github.comspiderx11/Naruto/tree/main/commands/search)      |
+|   Stalker     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/stalker)      |
+|   Textmaker     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/textmaker)      |
+|   Togel     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/togel)      |
+|   Users     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/users)      |
+|   Webzone     |       ✅[here](https://github.com/spiderx11/Naruto/tree/main/commands/webzone)      |
 	
 	Pull requests are welcome. Your contribution is helping me too
 	
-Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
+Group Support [Here](https://chat.whatsapp.com/I6d5lF1yUkD7K39qf2Al3f)
 	
-</details>
-
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Faizbastomi`](https://github.com/FaizBastomi)
-* [`FatihArridho`](https://github.com/FatihArridho)
-
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
