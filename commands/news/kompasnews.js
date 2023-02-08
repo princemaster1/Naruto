@@ -1,14 +1,14 @@
 const { fetchUrl } = require("../../lib/Function")
 
 module.exports = {
-    name: "antaranews",
-    alias: ["antaranews"],
-    desc: "Latest News From Antara News",
+    name: "kompasnews",
+    alias: ["kompasnews"],
+    desc: "Latest News From Kompasnews",
     type: "news",
     example: `%prefix%command`,
     start: async(killua, m, {}) => {
-        let fetch = await fetchUrl(global.api("zenz", "/news/antaranews", {}, "apikey"))
-        let caption = `Latest News From Antaranews\n\n`
+        let fetch = await fetchUrl(global.api("zenz", "/news/kompas", {}, "apikey"))
+        let caption = `Latest News From Kompasnews\n\n`
         for (let i of fetch.result) {
             caption += `⭔ Judul Berita : ${i.berita}\n`
             caption += `⭔ Di Upload : ${i.berita_diupload}\n`
